@@ -82,6 +82,7 @@
     <Content Include="packages.config" />
     <Content Include="RandomNo.js" />
     <Content Include="Registration.aspx" />
+    <Content Include="RegNewBranch.html" />
     <Content Include="sample.html" />
     <Content Include="samplehtml.html" />
     <Content Include="Scope.html" />
