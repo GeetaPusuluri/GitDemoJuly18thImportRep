@@ -75,7 +75,7 @@
     <Content Include="JSExpressions.js" />
     <Content Include="Length.html" />
     <Content Include="login.aspx" />
-    <Content Include="logout.html" />
+    <Content Include="mergerBranch.html" />
     <Content Include="Mark.html" />
     <Content Include="MaxSum.js" />
     <Content Include="Objects.js" />
